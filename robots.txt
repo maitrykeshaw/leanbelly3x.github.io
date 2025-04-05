@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://buy-metaboflex.vercel.app/sitemap.xml
+Sitemap: https://leanbelly3x.vercel.app/sitemap.xml
