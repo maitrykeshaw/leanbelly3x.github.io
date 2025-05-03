@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Lean Belly 3X™ [Official Website] Get $360 OFF + Free Bonus",
+  "short_name":"Lean Belly 3X™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Lean Belly 3X relies on its formula to increase insulin sensitivity and prevent the body from storing fats.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
